@@ -69,7 +69,7 @@ header{
 }
 /* bonus part styling */
 .bonus{
-    background-image: url(../images/new.jfif);
+    background-image: url(./images/new.jfif);
     background-repeat: no-repeat; 
     width:900px ;
     height: 400px;
